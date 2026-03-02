@@ -1,0 +1,12 @@
+[terminal.shell]
+program = "/bin/zsh"
+args = ["--login"]
+
+[font.normal]
+family = "JetBrainsMono Nerd Font Mono"
+style = "Bold"
+
+[general]
+import = [
+    "~/.config/alacritty/themes/tokyo-night-alacritty-theme/tokyo-night.toml"
+]
